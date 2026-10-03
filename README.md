@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
