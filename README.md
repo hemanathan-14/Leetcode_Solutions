@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0204-count-primes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
