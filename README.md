@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/hemanathan-14/Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
